@@ -1,0 +1,14 @@
+{
+  "name": "vinted-scraper",
+  "version": "1.0.0",
+  "description": "scraper for vinted",
+  "main": "index.js",
+  "repository": "https://github.com/alexmbentley/vinted-scraper.git",
+  "author": "alexmbentley <alexmbentley@hotmail.co.uk>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^24.2.1"
+  }
+}
